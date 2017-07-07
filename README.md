@@ -1,0 +1,4 @@
+# mybatisReverse
+mybatis逆向工程
+在generatorConfig.xml配置文件下修改jdbcConnection的数据库连接属性，和数据库要逆向的表，以及对应生成的dao.mapper,pojo等，
+运行GeneratorSqlmap即可生成对应的文件.
